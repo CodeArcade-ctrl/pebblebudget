@@ -1,5 +1,7 @@
 # PebbleBudget
 
+> **[Open the live app](https://codearcade-ctrl.github.io/pebblebudget/)** · [English version](https://codearcade-ctrl.github.io/pebblebudget/en/)
+
 **Een rustige, lokale uitgavenplanner.** PebbleBudget helpt mensen die hun maandbudget eenvoudig willen overzien hun uitgaven handmatig bij te houden, zonder bankkoppeling. [Read this in English](en/README.md).
 
 ## Probleem en doelgroep
@@ -42,4 +44,3 @@ Vanilla HTML, CSS en JavaScript; geen externe afhankelijkheden.
 ## Ideeën voor later
 
 Importeerbare back-up, aangepaste categorieën en een geprint maandoverzicht.
-
